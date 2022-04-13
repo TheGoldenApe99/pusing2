@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5676fCF549f434D0D1E71baD9370cdb451968109",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5676fcf549f434d0d1e71bad9370cdb451968109",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Golden Ape",
+  "SYMBOL": "APE",
+  "MAX_SUPPLY": 12500,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST":2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thegoldenape-v2",
+  "SHOW_BACKGROUND": true
+}
