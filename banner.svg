@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FFD54A"/><stop offset="1" stop-color="#F59E0B"/></linearGradient></defs>
+  <rect width="1200" height="300" rx="20" fill="url(#g)"/>
+  <text x="60" y="120" font-size="48" font-weight="800" fill="#332">Golden Ape Arena</text>
+  <text x="60" y="170" font-size="20" fill="#332" opacity="0.9">PvP NFT Card Battles (Base Sepolia)</text>
+  <g transform="translate(980,40)">
+    <circle cx="80" cy="80" r="70" fill="#fff" opacity="0.08"/>
+    <text x="80" y="98" font-size="56" text-anchor="middle" fill="#fff">🦍</text>
+  </g>
+</svg>
